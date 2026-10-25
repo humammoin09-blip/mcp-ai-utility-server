@@ -242,7 +242,6 @@ Add the `ai-engineer-utils` server entry under `mcpServers`:
 
 **Humam Moin**  
 - **GitHub:** [@humammoin09-blip](https://github.com/humammoin09-blip)  
-- **Role:** AI Engineer & System Architect  
 
 ---
 
